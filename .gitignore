@@ -1,0 +1,4 @@
+.env
+.aptos/
+build/
+node_modules
